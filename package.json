@@ -1,0 +1,26 @@
+{
+  "name": "puzzle-together-backend",
+  "version": "1.0.0",
+  "description": "backend for the puzzle together site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StamesJames/pzzle-together-backend.git"
+  },
+  "author": "The-Ludwig, StamesJames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StamesJames/pzzle-together-backend/issues"
+  },
+  "homepage": "https://github.com/StamesJames/pzzle-together-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.12",
+    "typescript": "^4.3.5"
+  }
+}
